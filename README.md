@@ -1,5 +1,20 @@
 # Getting Started with Create React App
 
+Api: https://breakingbadapi.com/
+Documentaion Link: https://breakingbadapi.com/documentation
+
+This App made by Html5, Css3, Js, Bootstrap4, React js
+Site Colors used: 
+
+black: #161616
+green: #346751
+orange: #C84B31
+biege: #ECDBBA 
+
+Thanks for watching 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
